@@ -8,7 +8,7 @@ public class Main {
 
         boolean done = false;
         String menuOpt;
-        int git;
+
 
 
         do {
